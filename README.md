@@ -1,6 +1,7 @@
 # NACA foil OpenFOAM case files
 
 OpenFOAM (3.0.x) case files for simulating NACA foils.
+Wikipedia's NACA 4-digit airfoils (http://en.wikipedia.org/wiki/NACA_airfoil)
 
 
 ## Dependencies
@@ -36,6 +37,9 @@ To plot the results for multiple angles of attack, run
 
 
 ## Acknowledgements
+
+Just forking Pete Bachant (https://github.com/petebachant/NACAFoil-OpenFOAM)
+work to play with NACA foils. Some stuff needs update.
 
 `blockMeshDict` generation script based on work by
 [Håkon Strandenes](https://www.hpc.ntnu.no/ntnu-hpc-group/vilje/user-guide/software/openfoam/openfoam-airfoil-calculations#OpenFOAM-AirfoilCalculations-3:Calculationofforcesandforcecoefficients).
